@@ -1,0 +1,1 @@
+docker build -t smart_zone_camera:latest .
